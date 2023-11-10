@@ -1,0 +1,16 @@
+@RELATION rule_mining_data_file
+@ATTRIBUTE I1 {0,1}
+@ATTRIBUTE I2 {0,1}
+@ATTRIBUTE I3 {0,1}
+@ATTRIBUTE I4 {0,1}
+@ATTRIBUTE I5 {0,1}
+@DATA
+1,1,0,0,1
+0,1,0,1,0
+0,1,1,0,0
+1,1,0,1,0
+1,0,1,0,0
+0,1,1,0,0
+1,0,1,0,0
+1,1,1,0,1
+1,1,1,0,0
